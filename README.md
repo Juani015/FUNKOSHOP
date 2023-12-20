@@ -20,12 +20,8 @@ En segundo lugar, se necesita contar con las vistas necesarias para administrar 
 
 ## Despliegue 📦
 
----
-Link deploy GitHub:  https://juani015.github.io/FUNKOSHOP/
----
----
-Link repositorio GitHub:  https://github.com/Juani015/FUNKOSHOP
----
+- Link deploy GitHub:  https://juani015.github.io/FUNKOSHOP/
+- Link repositorio GitHub:  https://github.com/Juani015/FUNKOSHOP
 
 
 ## Contribuyendo 🖇️
